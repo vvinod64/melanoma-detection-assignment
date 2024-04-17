@@ -37,11 +37,12 @@ For this project, we are utilizing a comprehensive dataset of skin images that i
 ## Conclusions
 1. **Model Training Progress**:
    - The model is trained for 20 epoch.
+   - The training accuracy improved after using augmented data.
    - The training loss decreased progressively over the epochs, indicating the model's learning and convergence.
-   - Training accuracy improved with each epoch, reaching approximately 91.18% by the end.
+   - Training accuracy improved with each epoch, reaching approximately 90% by the end.
 
 2. **Validation Performance**:
-   - The validation accuracy improved consistently with each epoch, peaking at around 92.28%.
+   - The validation accuracy improved consistently with each epoch, peaking at around 90%.
    - Validation loss decreased as the model learned, highlighting its ability to generalize well on unseen data.
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
